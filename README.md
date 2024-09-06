@@ -13,5 +13,3 @@ I'm Banavath Sai Kumar from India, currently pursuing a B.Tech in Computer Scien
 * 3D Art
 * Unity Developer
 
-## Examples of Work
-<img src="" width="512" >
